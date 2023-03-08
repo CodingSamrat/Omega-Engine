@@ -4,9 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Manual
-Intermediate/
-Debug-x64/
-
+bin-obj/
+.vscode
 
 # User-specific files
 *.rsuser
