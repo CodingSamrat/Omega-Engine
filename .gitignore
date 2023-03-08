@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Manual
-bin-obj/
 .vscode
+
 
 # User-specific files
 *.rsuser
@@ -32,6 +32,7 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
+[Bb]in-obj/
 [Oo]bj/
 [Oo]ut/
 [Ll]og/
